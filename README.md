@@ -10,6 +10,7 @@ I'm Dhruvi, A tech maestro making waves in the world of Android development. I'm
 <a href="https://linkedin.com/in/parekhdhruvee" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="parekhdhruvee" height="30" width="30" /></a>
 <a href="https://github.com/parekhdhruvee" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/github.png" alt="parekhdhruvee" height="30" width="30" /></a>
 <a href="https://instagram.com/parekhdhruvee" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="parekhdhruvee" height="30" width="30" /></a>
+  <a href="https://www.credly.com/users/parekhdhruvee" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/prize.png" alt="parekhdhruvee" height="30" width="30" /></a>
 </p>
 
 <h4 align="left">⋆ Multilingual Proficiency and Versatile Toolset:</h4>
