@@ -10,7 +10,9 @@ I'm Dhruvi, A tech maestro making waves in the world of Android development. I'm
 <a href="https://linkedin.com/in/parekhdhruvee" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="parekhdhruvee" height="30" width="30" /></a>
 <a href="https://github.com/parekhdhruvee" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/github.png" alt="parekhdhruvee" height="30" width="30" /></a>
 <a href="https://instagram.com/parekhdhruvee" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="parekhdhruvee" height="30" width="30" /></a>
-  <a href="https://www.credly.com/users/parekhdhruvee" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/prize.png" alt="parekhdhruvee" height="30" width="30" /></a>
+  
+<!--<a href="https://www.credly.com/users/parekhdhruvee" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/prize.png" alt="parekhdhruvee" height="30" width="30" /></a>-->
+
 </p>
 
 <h4 align="left">⋆ Multilingual Proficiency and Versatile Toolset:</h4>
@@ -25,3 +27,5 @@ I'm Dhruvi, A tech maestro making waves in the world of Android development. I'm
 <h4 align="left">⋆ Github Contributions and more: </h4>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parekhdhruvee&" alt="parekhdhruvee" /></p>
 
+<h4 align="left">⋆ IBM Badges: </h4>
+<a href="https://www.credly.com/badges/a588e956-537c-4068-9d60-5fd5d0274866"><img src="https://images.credly.com/size/680x680/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" width="50" height="50"/></a>
