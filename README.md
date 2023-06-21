@@ -6,7 +6,9 @@ I'm Dhruvi, A tech maestro making waves in the world of Android development. I'm
 
 <h3 align="left">⋆ Let's link up and stay connected!</h3>
 <p align="left">
-<a href="https://dev.to/parekhdhruvee" target="blank"><img align="center" src="https://icons8.com/icon/4hR4Ih04Je2t/google" alt="parekhdhruvee" height="30" width="40" /></a> <a href="https://linkedin.com/in/parekhdhruvee" target="blank"><img align="center" src="https://icons8.com/icon/MR3dZdlA53te/linkedin" alt="parekhdhruvee" height="30" width="40" /></a> <a href="https://instagram.com/parekhdhruvee" target="blank"><img align="center" src="https://icons8.com/icon/nj0Uj45LGUYh/instagram" alt="parekhdhruvee" height="30" width="40" /></a>
+<a href="https://dev.to/parekhdhruvee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="parekhdhruvee" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/parekhdhruvee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parekhdhruvee" height="30" width="40" /></a>
+<a href="https://instagram.com/parekhdhruvee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parekhdhruvee" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">⋆ Multilingual Proficiency and Versatile Toolset:</h3>
