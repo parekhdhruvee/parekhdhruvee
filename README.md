@@ -26,10 +26,10 @@ I'm Dhruvi, A tech maestro making waves in the world of Android development. I'm
 
 <p>
 <h4 align="left">⋆ Google Cloud Badges: </h4>
-<a href="https://www.cloudskillsboost.google/public_profiles/e02c03b1-fe11-4d24-8191-19d3ac07be72/badges/4062230"><img src="https://cdn.qwiklabs.com/uehm6AXjibx%2Fiv0KiH9QnBXSoFmeRyLMAQt35WsCttE%3D" width="75" height="55"/></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/e02c03b1-fe11-4d24-8191-19d3ac07be72/badges/4089629"><img src="https://cdn.qwiklabs.com/JrOKQRnGqDS79USZU4pXRs0VQva98J%2FmilbAkCG0lVA%3D" width="75" height="55"/></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/e02c03b1-fe11-4d24-8191-19d3ac07be72/badges/4061067"><img src="https://cdn.qwiklabs.com/TfMqEetrdIngHf1e0jLpamHD%2Fmv9BP8nO%2BuFADy2wzM%3D" width="75" height="55"/></a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/e02c03b1-fe11-4d24-8191-19d3ac07be72/badges/4083397"><img src="https://cdn.qwiklabs.com/9KOeiLLC2%2FY8cuxa7S4eJYTjgoyxCUUP3H5vNgJM73Y%3D" width="75" height="55"/></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/e02c03b1-fe11-4d24-8191-19d3ac07be72/badges/4062230"><img src="https://cdn.qwiklabs.com/uehm6AXjibx%2Fiv0KiH9QnBXSoFmeRyLMAQt35WsCttE%3D" width="65" height="60"/></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/e02c03b1-fe11-4d24-8191-19d3ac07be72/badges/4089629"><img src="https://cdn.qwiklabs.com/JrOKQRnGqDS79USZU4pXRs0VQva98J%2FmilbAkCG0lVA%3D" width="65" height="60"/></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/e02c03b1-fe11-4d24-8191-19d3ac07be72/badges/4061067"><img src="https://cdn.qwiklabs.com/TfMqEetrdIngHf1e0jLpamHD%2Fmv9BP8nO%2BuFADy2wzM%3D" width="65" height="60"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/e02c03b1-fe11-4d24-8191-19d3ac07be72/badges/4083397"><img src="https://cdn.qwiklabs.com/9KOeiLLC2%2FY8cuxa7S4eJYTjgoyxCUUP3H5vNgJM73Y%3D" width="65" height="60"/></a>
 </p>
 
 
