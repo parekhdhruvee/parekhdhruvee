@@ -23,6 +23,16 @@ I'm Dhruvi, A tech maestro making waves in the world of Android development. I'm
 &nbsp;<a href="https://www.credly.com/badges/ebbc9493-c4ba-475c-8baa-a01df357c90f"><img src="https://images.credly.com/size/680x680/images/46defa53-a922-47bd-94ea-b43488f5cd8a/Data_Science_Methodology_Foundational.png" width="55" height="55"/></a>
 &nbsp;<a href="https://www.credly.com/badges/ecb52730-674f-4ee4-8d4a-80af5139a4e0"><img src="https://images.credly.com/size/680x680/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/Cognitive_Class_-_Data_Analysis_w_Python.png" width="55" height="55"/></a>
 </p>
+
+<p>
+<h4 align="left">⋆ Google Cloud Badges: </h4>
+<a href="https://www.cloudskillsboost.google/public_profiles/e02c03b1-fe11-4d24-8191-19d3ac07be72/badges/4062230"><img src="https://cdn.qwiklabs.com/uehm6AXjibx%2Fiv0KiH9QnBXSoFmeRyLMAQt35WsCttE%3D" width="75" height="55"/></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/e02c03b1-fe11-4d24-8191-19d3ac07be72/badges/4089629"><img src="https://cdn.qwiklabs.com/JrOKQRnGqDS79USZU4pXRs0VQva98J%2FmilbAkCG0lVA%3D" width="75" height="55"/></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/e02c03b1-fe11-4d24-8191-19d3ac07be72/badges/4061067"><img src="https://cdn.qwiklabs.com/TfMqEetrdIngHf1e0jLpamHD%2Fmv9BP8nO%2BuFADy2wzM%3D" width="75" height="55"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/e02c03b1-fe11-4d24-8191-19d3ac07be72/badges/4083397"><img src="https://cdn.qwiklabs.com/9KOeiLLC2%2FY8cuxa7S4eJYTjgoyxCUUP3H5vNgJM73Y%3D" width="75" height="55"/></a>
+</p>
+
+
 <!--
 <h4 align="left">⋆ Multilingual Proficiency and Versatile Toolset:</h4>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
