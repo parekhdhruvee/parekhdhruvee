@@ -48,8 +48,9 @@ I'm Dhruvi, A tech maestro making waves in the world of Android development. I'm
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parekhdhruvee&show_icons=true&locale=en&layout=compact" alt="parekhdhruvee" /></p>-->
 
 <!-- GITHUB STATS -->
-<h4 align="left">⋆ Github Statistics: </h4>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parekhdhruvee&show_icons=true&locale=en" alt="parekhdhruvee" /></p>
+<!--<h4 align="left">⋆ Github Statistics: </h4>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parekhdhruvee&show_icons=true&locale=en" alt="parekhdhruvee" /></p>-->
+
 <h4 align="left">⋆ Github Contributions and more: </h4>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parekhdhruvee&" alt="parekhdhruvee" /></p>
 
