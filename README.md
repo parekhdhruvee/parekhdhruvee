@@ -55,4 +55,6 @@ I'm Dhruvi, A tech maestro making waves in the world of Android development. I'm
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parekhdhruvee&" alt="parekhdhruvee" /></p>
 
 <!-- profile views-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parekhdhruvee&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 [![](https://visitcount.itsvg.in/api?id=parekhdhruvee&icon=8&color=1)](https://visitcount.itsvg.in)
